@@ -47,7 +47,7 @@ change the world. That's why I like to make things that make a difference.
 
 [//]: # (</div>)
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="400" height="275" />
 
 
 ### Talking about Personal Stuffs:
@@ -59,6 +59,8 @@ change the world. That's why I like to make things that make a difference.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1EZxVGWsc-4mUusbVVEtV_72ok6Cdr2Nu/view?usp=sharing).
 
 
+<br>
+<br>
 <br>
 
 
