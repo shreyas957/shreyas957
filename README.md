@@ -39,11 +39,76 @@ change the world. That's why I like to make things that make a difference.
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-```txt
-No activity tracked
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 55 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                12 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+🌆 Daytime                18 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌃 Evening                28 commits          ███████████░░░░░░░░░░░░░░   42.42 % 
+🌙 Night                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   11 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Tuesday                  5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Wednesday                5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Thursday                 18 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Friday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Saturday                 6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Sunday                   13 commits          █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     7 repos             ███████████████░░░░░░░░░░   58.33 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/shreyas957/shreyas957/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/12/2024 19:59:44 UTC
 <!--END_SECTION:waka-->
 
 
