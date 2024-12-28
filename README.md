@@ -22,7 +22,7 @@ change the world. That's why I like to make things that make a difference.
     <h3>Talking about Personal Stuffs:</h3>
     <ul>
         <li>💻 I'm currently working on something cool.</li>
-        <li>📖 I'm currently learning Data Structures and Algorithms on <a href="https://leetcode.com">Leetcode</a>.</li>
+        <li>📖 I'm currently learning DSA on <a href="https://leetcode.com">Leetcode</a>.</li>
         <li>💬 Ask me about anything; I am happy to help.</li>
         <li>📫 How to reach me: <a href="mailto:shreyas.shevale01@gmail.com">shreyas.shevale01@gmail.com</a></li>
         <li>📄 <a href="https://drive.google.com/file/d/1EZxVGWsc-4mUusbVVEtV_72ok6Cdr2Nu/view?usp=sharing">Resume</a>.</li>
