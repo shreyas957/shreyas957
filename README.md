@@ -16,36 +16,7 @@ source. <br>
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that
 change the world. That's why I like to make things that make a difference.
 
-
-[//]: # (<div style="display: flex; align-items: flex-start; justify-content: space-between;">)
-
-[//]: # (  <div>)
-
-[//]: # (    <h3>Talking about Personal Stuffs:</h3>)
-
-[//]: # (    <ul>)
-
-[//]: # (        <li>💻 I'm currently working on something cool.</li>)
-
-[//]: # (        <li>📖 I'm currently learning DSA on <a href="https://leetcode.com">Leetcode</a>.</li>)
-
-[//]: # (        <li>💬 Ask me about anything; I am happy to help.</li>)
-
-[//]: # (        <li>📫 How to reach me: <a href="mailto:shreyas.shevale01@gmail.com">shreyas.shevale01@gmail.com</a></li>)
-
-[//]: # (        <li>📄 <a href="https://drive.google.com/file/d/1EZxVGWsc-4mUusbVVEtV_72ok6Cdr2Nu/view?usp=sharing">Resume</a>.</li>)
-
-[//]: # (    </ul>)
-
-[//]: # (  </div>)
-
-[//]: # (  <div>)
-
-[//]: # (    <img src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" alt="Coding GIF" width="400" />)
-
-[//]: # (  </div>)
-
-[//]: # (</div>)
+<br>
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="400" height="275" />
 
@@ -63,6 +34,7 @@ change the world. That's why I like to make things that make a difference.
 <br>
 <br>
 
+---
 
 📊 **This Week I Spent My Time On:**
 
@@ -156,3 +128,33 @@ C++                      1 repo              ██░░░░░░░░░�
 
 [//]: # ([![Telegram Badge]&#40;https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white&#41;]&#40;https://t.me/GKassym&#41;)
 
+
+[//]: # (<div style="display: flex; align-items: flex-start; justify-content: space-between;">)
+
+[//]: # (  <div>)
+
+[//]: # (    <h3>Talking about Personal Stuffs:</h3>)
+
+[//]: # (    <ul>)
+
+[//]: # (        <li>💻 I'm currently working on something cool.</li>)
+
+[//]: # (        <li>📖 I'm currently learning DSA on <a href="https://leetcode.com">Leetcode</a>.</li>)
+
+[//]: # (        <li>💬 Ask me about anything; I am happy to help.</li>)
+
+[//]: # (        <li>📫 How to reach me: <a href="mailto:shreyas.shevale01@gmail.com">shreyas.shevale01@gmail.com</a></li>)
+
+[//]: # (        <li>📄 <a href="https://drive.google.com/file/d/1EZxVGWsc-4mUusbVVEtV_72ok6Cdr2Nu/view?usp=sharing">Resume</a>.</li>)
+
+[//]: # (    </ul>)
+
+[//]: # (  </div>)
+
+[//]: # (  <div>)
+
+[//]: # (    <img src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" alt="Coding GIF" width="400" />)
+
+[//]: # (  </div>)
+
+[//]: # (</div>)
