@@ -17,21 +17,47 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 change the world. That's why I like to make things that make a difference.
 
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div>
-    <h3>Talking about Personal Stuffs:</h3>
-    <ul>
-        <li>💻 I'm currently working on something cool.</li>
-        <li>📖 I'm currently learning DSA on <a href="https://leetcode.com">Leetcode</a>.</li>
-        <li>💬 Ask me about anything; I am happy to help.</li>
-        <li>📫 How to reach me: <a href="mailto:shreyas.shevale01@gmail.com">shreyas.shevale01@gmail.com</a></li>
-        <li>📄 <a href="https://drive.google.com/file/d/1EZxVGWsc-4mUusbVVEtV_72ok6Cdr2Nu/view?usp=sharing">Resume</a>.</li>
-    </ul>
-  </div>
-  <div>
-    <img src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" alt="Coding GIF" width="400" />
-  </div>
-</div>
+[//]: # (<div style="display: flex; align-items: flex-start; justify-content: space-between;">)
+
+[//]: # (  <div>)
+
+[//]: # (    <h3>Talking about Personal Stuffs:</h3>)
+
+[//]: # (    <ul>)
+
+[//]: # (        <li>💻 I'm currently working on something cool.</li>)
+
+[//]: # (        <li>📖 I'm currently learning DSA on <a href="https://leetcode.com">Leetcode</a>.</li>)
+
+[//]: # (        <li>💬 Ask me about anything; I am happy to help.</li>)
+
+[//]: # (        <li>📫 How to reach me: <a href="mailto:shreyas.shevale01@gmail.com">shreyas.shevale01@gmail.com</a></li>)
+
+[//]: # (        <li>📄 <a href="https://drive.google.com/file/d/1EZxVGWsc-4mUusbVVEtV_72ok6Cdr2Nu/view?usp=sharing">Resume</a>.</li>)
+
+[//]: # (    </ul>)
+
+[//]: # (  </div>)
+
+[//]: # (  <div>)
+
+[//]: # (    <img src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" alt="Coding GIF" width="400" />)
+
+[//]: # (  </div>)
+
+[//]: # (</div>)
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+
+
+### Talking about Personal Stuffs:
+
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool.
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/).
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: shreyas.shevale01@gmail.com.
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1EZxVGWsc-4mUusbVVEtV_72ok6Cdr2Nu/view?usp=sharing).
+
 
 <br>
 
