@@ -41,6 +41,8 @@ change the world. That's why I like to make things that make a difference.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -50,12 +52,6 @@ change the world. That's why I like to make things that make a difference.
 No Activity Tracked This Week
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -71,12 +67,8 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/shreyas957/shreyas957/main/assets/bar_graph.png)
-
-
- Last Updated on 29/12/2024 11:07:25 UTC
+ Last Updated on 29/12/2024 11:17:26 UTC
 <!--END_SECTION:waka-->
 
 
