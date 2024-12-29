@@ -53,6 +53,9 @@ No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -68,7 +71,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2024 11:17:26 UTC
+ Last Updated on 29/12/2024 11:22:54 UTC
 <!--END_SECTION:waka-->
 
 
