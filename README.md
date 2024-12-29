@@ -41,41 +41,6 @@ change the world. That's why I like to make things that make a difference.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 60 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                12 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-🌆 Daytime                19 commits          ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-🌃 Evening                28 commits          ██████████░░░░░░░░░░░░░░░   39.44 % 
-🌙 Night                  12 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   11 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Tuesday                  5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Wednesday                5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Thursday                 18 commits          ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-Friday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Saturday                 6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Sunday                   18 commits          ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -111,7 +76,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shreyas957/shreyas957/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2024 10:56:30 UTC
+ Last Updated on 29/12/2024 11:07:25 UTC
 <!--END_SECTION:waka-->
 
 
