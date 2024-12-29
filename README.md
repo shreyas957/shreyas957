@@ -1,4 +1,4 @@
-### <samp>&gt; Hi there, I'm <a href="" target="_blank">Shreyas Shevale</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+## <samp>&gt; Hi there, I'm <a href="" target="_blank">Shreyas Shevale</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-shevale/)
@@ -18,16 +18,16 @@ change the world. That's why I like to make things that make a difference.
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="400" height="275" />
+<img align="right" alt="GIF" src="https://github.com/shreyas957/shreyas957/blob/main/assets/coding.gif?raw=true" width="400" height="275" />
 
 
 ### Talking about Personal Stuffs:
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool.
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/).
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: shreyas.shevale01@gmail.com.
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1EZxVGWsc-4mUusbVVEtV_72ok6Cdr2Nu/view?usp=sharing).
+- <img src="https://github.com/shreyas957/shreyas957/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool.
+- <img src="https://github.com/shreyas957/shreyas957/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/).
+- <img src="https://github.com/shreyas957/shreyas957/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
+- <img src="https://github.com/shreyas957/shreyas957/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: shreyas.shevale01@gmail.com.
+- <img src="https://github.com/shreyas957/shreyas957/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1EZxVGWsc-4mUusbVVEtV_72ok6Cdr2Nu/view?usp=sharing).
 
 
 <br>
@@ -120,6 +120,12 @@ C++                      1 repo              ██░░░░░░░░░�
 </p>
 
 
+
+
+
+
+
+
 [//]: # ([![Website Badge]&#40;https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white&#41;]&#40;https://gkassym.netlify.app&#41;)
 
 [//]: # ([![Twitter Badge]&#40;https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white&#41;]&#40;https://twitter.com/GKassym&#41;)
@@ -153,7 +159,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 [//]: # (  <div>)
 
-[//]: # (    <img src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" alt="Coding GIF" width="400" />)
+[//]: # (    <img src="https://github.com/shreyas957/shreyas957/blob/main/assets/coding.gif?raw=true" alt="Coding GIF" width="400" />)
 
 [//]: # (  </div>)
 

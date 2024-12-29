@@ -11,8 +11,6 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      # this action name
-#      - uses: athul/waka-readme@master # do NOT replace with anything else
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -20,23 +18,3 @@ jobs:
           SHOW_TIMEZONE: "True"
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
-          SHOW_PROJECTS: "False"
-          SHOW_LINES_OF_CODE: "False"
-
-
-
-
-
-
-
-#          BLOCKS: "░▒▓█"
-#          TIME_RANGE: last_7_days
-#          LANG_COUNT: 5
-#          SHOW_TIME: true
-#          SHOW_TOTAL: true
-#          SHOW_MASKED_TIME: true
-#          SHOW_LANGUAGE: true
-#          SHOW_EDITORS: true
-#          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-#          TARGET_BRANCH: main
-#          TARGET_PATH: README.md
