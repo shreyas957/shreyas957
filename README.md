@@ -43,6 +43,8 @@ change the world. That's why I like to make things that make a difference.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -73,7 +75,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2024 11:22:54 UTC
+ Last Updated on 29/12/2024 11:28:58 UTC
 <!--END_SECTION:waka-->
 
 
