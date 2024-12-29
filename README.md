@@ -6,8 +6,10 @@
 
 
 <div style="display: flex; align-items: center; justify-content: flex-start;">
-  <h2 style="margin: 0;">Glad to see you here! &nbsp;</h2>
-  <img src="https://komarev.com/ghpvc/?username=shreyas957&style=plastic&color=blue" alt="Visitor Count" style="vertical-align: center; height: 20px; margin-top: auto">
+  <h3 style="margin: 0;">Glad to see you here! &nbsp;</h3>
+
+[//]: # (  <img src="https://komarev.com/ghpvc/?username=shreyas957&style=plastic&color=blue" alt="Visitor Count" style="vertical-align: center; height: 20px; margin-top: auto">)
+
 </div>
 
 I am a full-stack software engineer, specialising in Java, Spring🍃 & AWS with a passion for software development and open
