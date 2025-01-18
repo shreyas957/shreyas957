@@ -53,18 +53,13 @@ change the world. That's why I like to make things that make a difference.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     1 hr 56 mins        ███████████████████████░░   91.43 % 
-SQL                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Java Properties          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Kotlin                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 7 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nexuside                 2 hrs 7 mins        █████████████████████████   100.00 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -80,7 +75,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2025 00:45:30 UTC
+ Last Updated on 18/01/2025 00:44:15 UTC
 <!--END_SECTION:waka-->
 
 
