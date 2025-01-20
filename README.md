@@ -43,7 +43,7 @@ change the world. That's why I like to make things that make a difference.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -53,29 +53,32 @@ change the world. That's why I like to make things that make a difference.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     22 mins             █████████████████░░░░░░░░   69.22 % 
+Markdown                 9 mins              ████████░░░░░░░░░░░░░░░░░   30.78 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nexuside                 17 mins             ██████████████░░░░░░░░░░░   54.91 % 
+JavaMasterClass          8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+shreyas957               6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     9 repos             ███████████████░░░░░░░░░░   60.00 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Java                     9 repos             ██████████████░░░░░░░░░░░   56.25 % 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
 
 
- Last Updated on 19/01/2025 00:51:09 UTC
+ Last Updated on 20/01/2025 00:47:25 UTC
 <!--END_SECTION:waka-->
 
 
