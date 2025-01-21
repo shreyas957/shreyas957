@@ -41,9 +41,9 @@ change the world. That's why I like to make things that make a difference.
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -53,16 +53,16 @@ change the world. That's why I like to make things that make a difference.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     22 mins             █████████████████░░░░░░░░   69.22 % 
-Markdown                 9 mins              ████████░░░░░░░░░░░░░░░░░   30.78 % 
+Java                     4 hrs 22 mins       ████████████████████████░   96.35 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-IntelliJ IDEA            32 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nexuside                 17 mins             ██████████████░░░░░░░░░░░   54.91 % 
-JavaMasterClass          8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-shreyas957               6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaMasterClass          4 hrs 8 mins        ███████████████████████░░   91.11 % 
+nexuside                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+shreyas957               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 
 **I Mostly Code in Java** 
@@ -78,7 +78,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/01/2025 00:47:25 UTC
+ Last Updated on 21/01/2025 00:45:39 UTC
 <!--END_SECTION:waka-->
 
 
