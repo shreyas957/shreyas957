@@ -42,7 +42,7 @@ change the world. That's why I like to make things that make a difference.
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -54,16 +54,16 @@ change the world. That's why I like to make things that make a difference.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     1 hr 1 min          █████████████████░░░░░░░░   68.79 % 
-Markdown                 27 mins             ████████░░░░░░░░░░░░░░░░░   31.21 % 
+Java                     1 hr 1 min          █████████████████░░░░░░░░   68.93 % 
+Markdown                 27 mins             ████████░░░░░░░░░░░░░░░░░   31.07 % 
 
 🔥 Editors: 
 IntelliJ IDEA            1 hr 29 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DSA-Learning             38 mins             ███████████░░░░░░░░░░░░░░   42.75 % 
-shreyas957               27 mins             ████████░░░░░░░░░░░░░░░░░   31.21 % 
-CP-Practice              23 mins             ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+DSA-Learning             38 mins             ███████████░░░░░░░░░░░░░░   43.01 % 
+shreyas957               27 mins             ████████░░░░░░░░░░░░░░░░░   31.07 % 
+CP-Practice              23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
 ```
 
 **I Mostly Code in Java** 
@@ -79,7 +79,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2025 00:49:17 UTC
+ Last Updated on 01/03/2025 00:53:48 UTC
 <!--END_SECTION:waka-->
 
 
