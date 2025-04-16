@@ -42,7 +42,7 @@ change the world. That's why I like to make things that make a difference.
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,15 +54,15 @@ change the world. That's why I like to make things that make a difference.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     3 hrs 48 mins       █████████████████████████   99.88 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Java                     4 hrs 59 mins       █████████████████████████   99.91 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 49 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DSA-Learning             3 hrs 47 mins       █████████████████████████   99.45 % 
-JavaMasterClass          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+DSA-Learning             4 hrs 58 mins       █████████████████████████   99.58 % 
+JavaMasterClass          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 
 **I Mostly Code in Java** 
@@ -78,7 +78,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/04/2025 00:54:24 UTC
+ Last Updated on 16/04/2025 00:54:30 UTC
 <!--END_SECTION:waka-->
 
 
