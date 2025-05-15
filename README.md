@@ -26,7 +26,7 @@ change the world. That's why I like to make things that make a difference.
 
 ### Talking about Personal Stuffs:
 
-- <img src="https://github.com/shreyas957/shreyas957/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool.
+- <img src="https://github.com/shreyas957/shreyas957/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently contributing to [Spring Cloud AWS](https://github.com/awspring/spring-cloud-aws).
 - <img src="https://github.com/shreyas957/shreyas957/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/).
 - <img src="https://github.com/shreyas957/shreyas957/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
 - <img src="https://github.com/shreyas957/shreyas957/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: shreyas.shevale01@gmail.com.
