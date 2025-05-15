@@ -1,4 +1,4 @@
-![Banner](https://github.com/shreyas957/shreyas957/blob/main/assets/Coding-mario.gif?raw=true)
+[//]: # (![Banner]&#40;https://github.com/shreyas957/shreyas957/blob/main/assets/Coding-mario.gif?raw=true&#41;)
 ## <samp>&gt; Hi there, I'm <a href="" target="_blank">Shreyas Shevale</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 
@@ -83,10 +83,14 @@ Go                       1 repo              █░░░░░░░░░░�
  Last Updated on 15/05/2025 00:54:45 UTC
 <!--END_SECTION:waka-->
 
+[//]: # ()
+[//]: # (📈 **My GitHub Stats:**)
 
-📈 **My GitHub Stats:**
+[//]: # ()
+[//]: # (<p>)
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyas957&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas957&exclude_repo=smart-glasses-for-blind-people&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+[//]: # (  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyas957&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />)
+
+[//]: # (  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas957&exclude_repo=smart-glasses-for-blind-people&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>)
+
+[//]: # (</p>)
