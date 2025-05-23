@@ -42,6 +42,8 @@ change the world. That's why I like to make things that make a difference.
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%207%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
@@ -52,17 +54,15 @@ change the world. That's why I like to make things that make a difference.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     3 hrs               ████████████████████████░   96.59 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Java                     3 hrs               █████████████████████████   99.77 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 7 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spring-cloud-aws         2 hrs 52 mins       ███████████████████████░░   92.31 % 
-DSA-Learning             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-shreyas957               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+spring-cloud-aws         2 hrs 52 mins       ████████████████████████░   95.34 % 
+DSA-Learning             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
 
 **I Mostly Code in Java** 
@@ -78,7 +78,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2025 00:56:22 UTC
+ Last Updated on 23/05/2025 00:56:23 UTC
 <!--END_SECTION:waka-->
 
 [//]: # ()
