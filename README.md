@@ -54,13 +54,18 @@ change the world. That's why I like to make things that make a difference.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     2 hrs 51 mins       ██████████████░░░░░░░░░░░   58.00 % 
+Docker                   44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Bash                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+.env file                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            4 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+spotify-microservices    4 hrs 34 mins       ███████████████████████░░   92.59 % 
+spotify-angular-frontend 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 ```
 
 **I Mostly Code in Java** 
@@ -76,7 +81,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2025 00:54:18 UTC
+ Last Updated on 28/08/2025 00:53:32 UTC
 <!--END_SECTION:waka-->
 
 [//]: # ()
