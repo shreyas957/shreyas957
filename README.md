@@ -46,7 +46,7 @@ change the world. That's why I like to make things that make a difference.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -54,13 +54,18 @@ change the world. That's why I like to make things that make a difference.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     28 mins             ████████████░░░░░░░░░░░░░   49.39 % 
+Markdown                 21 mins             █████████░░░░░░░░░░░░░░░░   37.76 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Kotlin                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Spring-Projects          32 mins             ██████████████░░░░░░░░░░░   56.64 % 
+spotify-clone-project    24 mins             ███████████░░░░░░░░░░░░░░   43.36 % 
 ```
 
 **I Mostly Code in Java** 
@@ -76,7 +81,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2025 00:52:06 UTC
+ Last Updated on 11/09/2025 00:53:16 UTC
 <!--END_SECTION:waka-->
 
 [//]: # ()
