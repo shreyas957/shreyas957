@@ -42,9 +42,31 @@ change the world. That's why I like to make things that make a difference.
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2025%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Java                     32 mins             █████████████░░░░░░░░░░░░   50.97 % 
+Markdown                 21 mins             ████████░░░░░░░░░░░░░░░░░   33.21 % 
+Kotlin                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+
+🔥 Editors: 
+IntelliJ IDEA            1 hr 4 mins         █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Spring-Projects          39 mins             ███████████████░░░░░░░░░░   61.87 % 
+spotify-clone-project    24 mins             ██████████░░░░░░░░░░░░░░░   38.13 % 
+```
 
 **I Mostly Code in Java** 
 
@@ -59,7 +81,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2025 00:51:55 UTC
+ Last Updated on 18/09/2025 00:51:25 UTC
 <!--END_SECTION:waka-->
 
 [//]: # ()
