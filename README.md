@@ -42,9 +42,7 @@ change the world. That's why I like to make things that make a difference.
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2025%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
@@ -67,7 +65,7 @@ No Activity Tracked This Week
 
 ```text
 Java                     13 repos            ███████████████░░░░░░░░░░   61.90 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
@@ -76,7 +74,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2025 00:54:42 UTC
+ Last Updated on 16/10/2025 00:54:16 UTC
 <!--END_SECTION:waka-->
 
 [//]: # ()
