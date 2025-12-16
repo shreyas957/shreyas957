@@ -42,7 +42,7 @@ change the world. That's why I like to make things that make a difference.
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,17 +54,16 @@ change the world. That's why I like to make things that make a difference.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     1 hr 6 mins         ███████████████████████░░   93.03 % 
-GitIgnore file           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Kotlin                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Java                     25 mins             █████████████████████░░░░   84.79 % 
+GitIgnore file           2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Kotlin                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 11 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Spring-Projects          1 hr 3 mins         ██████████████████████░░░   88.50 % 
-DSA-Learning             8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Spring-Projects          27 mins             ███████████████████████░░   91.08 % 
+DSA-Learning             2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 ```
 
 **I Mostly Code in Java** 
@@ -80,7 +79,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2025 01:02:21 UTC
+ Last Updated on 16/12/2025 01:00:42 UTC
 <!--END_SECTION:waka-->
 
 [//]: # ()
