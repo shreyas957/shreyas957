@@ -66,17 +66,17 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     13 repos            ███████████████░░░░░░░░░░   61.90 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Java                     13 repos            ████████████████░░░░░░░░░   65.00 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 28/12/2025 01:07:28 UTC
+ Last Updated on 29/12/2025 01:04:55 UTC
 <!--END_SECTION:waka-->
 
 [//]: # ()
