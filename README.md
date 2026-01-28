@@ -54,13 +54,13 @@ change the world. That's why I like to make things that make a difference.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 12 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 12 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DSA-Learning             1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -76,7 +76,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/01/2026 01:05:59 UTC
+ Last Updated on 28/01/2026 01:02:24 UTC
 <!--END_SECTION:waka-->
 
 [//]: # ()
