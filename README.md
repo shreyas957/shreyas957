@@ -42,6 +42,8 @@ change the world. That's why I like to make things that make a difference.
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2059%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.45%20million%20lines%20of%20code-blue?style=flat)
@@ -52,13 +54,13 @@ change the world. That's why I like to make things that make a difference.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     2 hrs 35 mins       █████████████████████████   100.00 % 
+Java                     2 hrs 36 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 35 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DSA-Learning             2 hrs 35 mins       █████████████████████████   100.00 % 
+DSA-Learning             2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -74,7 +76,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2026 01:15:01 UTC
+ Last Updated on 03/02/2026 01:15:24 UTC
 <!--END_SECTION:waka-->
 
 [//]: # ()
